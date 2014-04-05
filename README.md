@@ -1,4 +1,4 @@
 arduinoCNC
 ==========
 
-arduino code to driver an CUT2000 from http://www.team-haase.de/
+arduino code to drive an CUT2000 from http://www.team-haase.de/
